@@ -1,0 +1,11 @@
+.container{
+    @apply  flex flex-col w-full h-full gap-4 px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48
+    lg:flex-row overflow-hidden
+    
+}
+.svg{
+    @apply flex
+}
+.biography{
+    @apply flex flex-col gap-12 w-full  pt-24
+}

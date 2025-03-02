@@ -1,0 +1,4 @@
+.container{
+    @apply flex flex-col w-screen h-[calc(100vh-6rem)] gap-4 px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48
+    lg:flex-row
+}
